@@ -1,0 +1,13 @@
+app:
+  swagger:
+    app-info:
+      title: Devlife API Gateway
+      description: Devlife Spring cloud gateway APIs
+      version: 1.0
+      term-of-services: term of services
+      license: none
+      license-url: none
+      contact:
+        name: Nguyen Ta Minh Trung
+        url: http://localhost.com
+        email: trungntm.97@gmail.com
